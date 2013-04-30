@@ -130,6 +130,9 @@
 	<attr name="emojiSmileyButtonDrawable" format="reference" />
 	<attr name="chooserListItemTextStyle" format="reference" />
 	<attr name="preferenceListItemCategoryTitleStyle" format="reference" />
+	<attr name="messageEditorBackgroundColorStyle" format="reference" />
+	<attr name="inviteFriendsTextStyle" format="reference" />
+	<attr name="inviteFriendsBackgroundStyle" format="reference" />
 	<!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
@@ -505,6 +508,9 @@
 	</declare-styleable>
 	<declare-styleable name="chooserListItemText">
         <attr name="android:textColor" />
+    </declare-styleable>
+    <declare-styleable name="inviteFriendsBackgroundStyle">
+        <attr name="android:background" />
     </declare-styleable>
 	<!-- Theme Styleables End -->
 </resources>
