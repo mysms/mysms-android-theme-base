@@ -512,5 +512,9 @@
     <declare-styleable name="inviteFriendsBackgroundStyle">
         <attr name="android:background" />
     </declare-styleable>
+    <declare-styleable name="InputMask">
+		<attr name="mask" format="string" />
+		<attr name="char_representation" format="string" />
+	</declare-styleable>
 	<!-- Theme Styleables End -->
 </resources>
