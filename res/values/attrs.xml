@@ -133,6 +133,10 @@
 	<attr name="messageEditorBackgroundColorStyle" format="reference" />
 	<attr name="inviteFriendsTextStyle" format="reference" />
 	<attr name="inviteFriendsBackgroundStyle" format="reference" />
+	<attr name="chooserListItemInfoTextStyle" format="reference" />
+	<attr name="chooserListItemLikeDrawable" format="reference" />
+	<attr name="chooserListItemErrorDrawable" format="reference" />
+	<attr name="chooserListItemMessageDrawable" format="reference" />
 	<!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
