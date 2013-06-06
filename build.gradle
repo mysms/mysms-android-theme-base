@@ -3,7 +3,7 @@ apply plugin: 'maven'
 
 group = 'com.mysms.android'
 archivesBaseName = 'mysms-android-theme-base'
-version = '1.0'
+version = '1.0-SNAPSHOT'
 
 buildscript {
     repositories {
@@ -41,11 +41,20 @@ android {
     }
 }
 
+
+if (!hasProperty('uploadRepositoryUri')) project.ext.uploadRepositoryUri = ''
+if (!hasProperty('uploadSnapshotRepositoryUri')) project.ext.uploadSnapshotRepositoryUri = ''
+if (!hasProperty('uploadUser')) project.ext.uploadUser = ''
+if (!hasProperty('uploadPassword')) project.ext.uploadPassword = ''
+
 uploadArchives {
     repositories {
         mavenDeployer {
             repository(url: uri(uploadRepositoryUri)) {
-                authentication(userName: uploadRepositoryUser, password: uploadRepositoryPassword)
+                authentication(userName: uploadUser, password: uploadPassword)
+            }
+            snapshotRepository(url: uri(uploadSnapshotRepositoryUri)) {
+                authentication(userName: uploadUser, password: uploadPassword)
             }
         }
     }
