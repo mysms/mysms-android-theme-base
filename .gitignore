@@ -1,2 +1,6 @@
 bin/
 gen/
+/local.properties
+/gradle.properties
+/build
+/.gradle
