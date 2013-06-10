@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-		<!-- Theme Resources Start (don't reorder, don't insert or delete, only append) -->
+		<!-- Theme Resources Start (you have do add every attribute to public.xml) -->
 	
 	<attr name="avatarDefaultDrawable" format="reference" />
 	

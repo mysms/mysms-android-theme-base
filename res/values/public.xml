@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="attr" name="avatarDefaultDrawable" id="0x7f010000" />
+    <public type="attr" name="contentDividerStyle" id="0x7f010001" />
+	  <public type="attr" name="topBarStyle" id="0x7f010002" />
+	  <public type="attr" name="bottomBarStyle" id="0x7f010003" />
+	  
+	  <public type="attr" name="messageCharCounterStyle" id="0x7f010004" />
+	  <public type="attr" name="messageRoutingButtonStyle" id="0x7f010005" />
+	  
+	  <public type="attr" name="recipientsToTextStyle" id="0x7f010006" />
+	  <public type="attr" name="recipientsAddButtonStyle" id="0x7f010007" />
+	  
+	  <public type="attr" name="contactListGroupItemStyle" id="0x7f010008" />
+	  <public type="attr" name="contactListGroupItemBackgroundStyle" id="0x7f010009" />
+	  
+	  <public type="attr" name="contactListItemNameStyle" id="0x7f01000a" />
+	  <public type="attr" name="contactListItemNumberStyle" id="0x7f01000b" />
+	  
+	  <public type="attr" name="conversationListItemDateStyle" id="0x7f01000c" />
+	  <public type="attr" name="conversationListItemDraftStyle" id="0x7f01000d" />
+	  <public type="attr" name="conversationListItemNameStyle" id="0x7f01000e" />
+	  <public type="attr" name="conversationListItemSnippetStyle" id="0x7f01000f" />
+	  
+	  <public type="attr" name="messageListGroupHeaderStyle" id="0x7f010010" />
+	  
+	  <public type="attr" name="messageListItemTextStyle" id="0x7f010011" />
+	  <public type="attr" name="messageListItemBubbleIncomingDrawable" id="0x7f010012" />
+	  <public type="attr" name="messageListItemBubbleOutgoingDrawable" id="0x7f010013" />
+	  <public type="attr" name="messageListItemStatusDeliveredDrawable" id="0x7f010014" />
+	  <public type="attr" name="messageListItemStatusFailedDrawable" id="0x7f010015" />
+	  
+	  <public type="attr" name="notifyPopupNameStyle" id="0x7f010016" />
+	  <public type="attr" name="notifyPopupDateStyle" id="0x7f010017" />
+	  <public type="attr" name="notifyPopupTextStyle" id="0x7f010018" />
+	  <public type="attr" name="notifyPopupUnreadStyle" id="0x7f010019" />
+	  
+	  <public type="attr" name="dialogHeaderStyle" id="0x7f01001a" />
+	  
+	  <public type="attr" name="messageListItemStatusPendingRotatingDrawable" id="0x7f01001b" />
+	  <public type="attr" name="messageListItemStatusPendingDrawable" id="0x7f01001c" />
+	  
+	  <public type="attr" name="messageListItemNumbersTextStyle" id="0x7f01001d" />
+	  
+	  <public type="attr" name="recipientsEditorStyle" id="0x7f01001e" />
+	  <public type="attr" name="messageEditorStyle" id="0x7f01001f" />
+	  <public type="attr" name="isUpdate" id="0x7f010020" />
+	  
+	  <public type="attr" name="statusBarText" id="0x7f010021" />
+	    
+	  <public type="attr" name="conversationListNewMessageTextStyle" id="0x7f010022" />
+	  <public type="attr" name="conversationListFriendsTextStyle" id="0x7f010023" />
+	  
+	  <public type="attr" name="friendsListItemStyle" id="0x7f010024" />
+	  <public type="attr" name="friendsListItemNameStyle" id="0x7f010025" />
+	  <public type="attr" name="friendsListItemMsisdnStyle" id="0x7f010026" />
+	  <public type="attr" name="friendsListInfoStyle" id="0x7f010027" />
+	  <public type="attr" name="friendsInviteButtonStyle" id="0x7f010028" />
+	  <public type="attr" name="friendsInviteHeaderStyle" id="0x7f010029" />
+	  <public type="attr" name="friendsInviteTextStyle" id="0x7f01002a" />
+	  
+	  <public type="attr" name="messageSendButtonStyle" id="0x7f01002b" />
+	  <public type="attr" name="attachmentDrawable" id="0x7f01002c" />
+	  
+	  <public type="attr" name="actionBarBackground" id="0x7f01002d" />
+	  
+	  <public type="attr" name="usesActionBar" id="0x7f01002e" />
+	  
+	  <public type="attr" name="conversationListItemUnreadStyle" id="0x7f01002f" />
+	  
+	  <public type="attr" name="newFriendIcon" id="0x7f010030" />
+	  
+	  <public type="attr" name="infoTextStyle" id="0x7f010031" />
+	  
+	  <public type="attr" name="headerIcon" id="0x7f010032" />
+	  <public type="attr" name="messageEditorBackgroundStyle" id="0x7f010033" />
+	  <public type="attr" name="separatorLineStyle" id="0x7f010034" />
+	  <public type="attr" name="attachmentBackgroundStyle" id="0x7f010035" />
+	  <public type="attr" name="attachmentImageStyle" id="0x7f010036" />
+	  <public type="attr" name="actionbarSelectableStyle" id="0x7f010037" />
+	  
+	  <public type="attr" name="messageListItemIncomingTextStyle" id="0x7f010038" />
+	  <public type="attr" name="messageListItemDateStyle" id="0x7f010039" />
+	  <public type="attr" name="messageListItemIncomingDateStyle" id="0x7f01003a" />
+	  
+	  <public type="attr" name="separatorLineAttachmentStyle" id="0x7f01003b" />
+	  <public type="attr" name="messageListItemAddIconDrawable" id="0x7f01003c" />
+	  <public type="attr" name="actionBarTitleStyle" id="0x7f01003d" />
+	  <public type="attr" name="actionBarSubTitleStyle" id="0x7f01003e" />
+	  <public type="attr" name="actionBarLayoutStyle" id="0x7f01003f" />
+	  <public type="attr" name="headerBarStyle" id="0x7f010040" />
+	  <public type="attr" name="avatarGroupDrawable" id="0x7f010041" />
+	  <public type="attr" name="contactListItemTypeStyle" id="0x7f010042" />
+	  <public type="attr" name="cancelButtonStyle" id="0x7f010043" />
+	  <public type="attr" name="friendsIndicatorStyle" id="0x7f010044" />
+	  <public type="attr" name="messageListItemLockedDrawable" id="0x7f010045" />
+	  <public type="attr" name="messageListItemIncomingAddIconDrawable" id="0x7f010046" />
+	  <public type="attr" name="tabIndicatorStyle" id="0x7f010047" />
+	  <public type="attr" name="hasTabBarStyle" id="0x7f010048" />
+	  <public type="attr" name="attachmentAddIconDrawable" id="0x7f010049" />
+	  <public type="attr" name="recipientsEditorPopUpStyle" id="0x7f01004a" />
+	  
+	  <public type="attr" name="headerBarAttachmentAddIconDrawable" id="0x7f01004b" />
+	  <public type="attr" name="headerBarInviteDrawable" id="0x7f01004c" />
+	  <public type="attr" name="headerBarComposeIconDrawable" id="0x7f01004d" />
+	  <public type="attr" name="headerBarFriendsListIconDrawable" id="0x7f01004e" />
+	  <public type="attr" name="headerBarGroupsInviteIconDrawable" id="0x7f01004f" />
+	  <public type="attr" name="headerBarGroupsNewIconDrawable" id="0x7f010050" />
+	  
+	  <public type="attr" name="preferenceListItemTitleStyle" id="0x7f010051" />
+	  <public type="attr" name="preferenceListItemSummaryStyle" id="0x7f010052" />
+	  <public type="attr" name="alertDialogTitleStyle" id="0x7f010053" />
+	  <public type="attr" name="alertDialogDividerStyle" id="0x7f010054" />
+	  <public type="attr" name="attachmentAddDialogIconDrawable" id="0x7f010055" />
+	  <public type="attr" name="imageButtonDialogStyle" id="0x7f010056" />
+	  <public type="attr" name="windowBackgroundImageStyle" id="0x7f010057" />
+	  <public type="attr" name="dialogTopStyle" id="0x7f010058" />
+	  <public type="attr" name="dialogBottomStyle" id="0x7f010059" />
+	  <public type="attr" name="alertDialogDrawable" id="0x7f01005a" />
+	  <public type="attr" name="listDividerDrawable" id="0x7f01005b" />
+	  <public type="attr" name="listSelectorDrawable" id="0x7f01005c" />
+	  <public type="attr" name="listSelectedDrawable" id="0x7f01005d" />
+	  <public type="attr" name="notifyPopupBackgroundStyle" id="0x7f01005e" />
+	  <public type="attr" name="notifyPopupItemUnreadStyle" id="0x7f01005f" />
+	  <public type="attr" name="emojiKeyboardIconDrawable" id="0x7f010060" />
+	  <public type="attr" name="emojiKeyboardCloseDrawable" id="0x7f010061" />
+	  <public type="attr" name="emojiSmileyButtonDrawable" id="0x7f010062" />
+	  <public type="attr" name="chooserListItemTextStyle" id="0x7f010063" />
+	  <public type="attr" name="preferenceListItemCategoryTitleStyle" id="0x7f010064" />
+	  <public type="attr" name="messageEditorBackgroundColorStyle" id="0x7f010065" />
+	  <public type="attr" name="inviteFriendsTextStyle" id="0x7f010066" />
+	  <public type="attr" name="inviteFriendsBackgroundStyle" id="0x7f010067" />
+	  <public type="attr" name="chooserListItemInfoTextStyle" id="0x7f010068" />
+	  <public type="attr" name="chooserListItemLikeDrawable" id="0x7f010069" />
+	  <public type="attr" name="chooserListItemErrorDrawable" id="0x7f01006a" />
+	  <public type="attr" name="chooserListItemMessageDrawable" id="0x7f01006b" />
+    
+</resources>
