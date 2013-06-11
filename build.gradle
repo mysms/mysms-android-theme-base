@@ -3,7 +3,7 @@ apply plugin: 'maven'
 
 group = 'com.mysms.android'
 archivesBaseName = 'mysms-android-theme-base'
-version = '1.0-SNAPSHOT'
+version = '1.0'
 
 buildscript {
     repositories {
@@ -22,7 +22,7 @@ android {
     buildToolsVersion "17"
 
     defaultConfig {
-        minSdkVersion 8
+        minSdkVersion 5
         targetSdkVersion 17
         versionName = version
     }
