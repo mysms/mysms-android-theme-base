@@ -137,8 +137,11 @@
 	<attr name="chooserListItemLikeDrawable" format="reference" />
 	<attr name="chooserListItemErrorDrawable" format="reference" />
 	<attr name="chooserListItemMessageDrawable" format="reference" />
-    <attr name="typingDrawable" format="reference" />
     <attr name="titleIndicatorBackgroundStyle" format="reference" />
+    <attr name="typingDrawable" format="reference" />
+    <attr name="titleIndicatorTextStyle" format="reference" />
+    <attr name="titleIndicatorCounterTextStyle" format="reference" />
+    <attr name="titleIndicatorCounterBackgroundStyle" format="reference" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
@@ -525,6 +528,7 @@
 	</declare-styleable>
     <declare-styleable name="titleIndicator">
         <attr name="android:background" />
+        <attr name="android:textColor" />
     </declare-styleable>
 	<!-- Theme Styleables End -->
 </resources>
