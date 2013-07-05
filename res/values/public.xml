@@ -134,6 +134,6 @@
 	<public type="attr" name="chooserListItemLikeDrawable" id="0x7f010069" />
 	<public type="attr" name="chooserListItemErrorDrawable" id="0x7f01006a" />
 	<public type="attr" name="chooserListItemMessageDrawable" id="0x7f01006b" />
-
 	<public type="attr" name="typingDrawable" id="0x7f01006c" />
+	<public type="attr" name="titleIndicatorBackgroundStyle" id="0x7f01006d" />
 </resources>
