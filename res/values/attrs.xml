@@ -139,9 +139,10 @@
 	<attr name="chooserListItemMessageDrawable" format="reference" />
     <attr name="titleIndicatorBackgroundStyle" format="reference" />
     <attr name="typingDrawable" format="reference" />
-    <attr name="titleIndicatorTextStyle" format="reference" />
-    <attr name="titleIndicatorCounterTextStyle" format="reference" />
-    <attr name="titleIndicatorCounterBackgroundStyle" format="reference" />
+    <attr name="titleIndicatorTextColor" format="reference|color" />
+	<attr name="titleIndicatorBackgroundColor" format="reference|color" />
+    <attr name="titleIndicatorCounterTextColor" format="reference|color" />
+    <attr name="titleIndicatorCounterBackgroundColor" format="reference|color" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->

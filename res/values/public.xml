@@ -135,7 +135,8 @@
 	<public type="attr" name="chooserListItemErrorDrawable" id="0x7f01006a" />
 	<public type="attr" name="chooserListItemMessageDrawable" id="0x7f01006b" />
     <public type="attr" name="typingDrawable" id="0x7f01006c" />
-    <public type="attr" name="titleIndicatorTextStyle" id="0x7f01006d" />
-    <public type="attr" name="titleIndicatorCounterTextStyle" id="0x7f01006e" />
-    <public type="attr" name="titleIndicatorCounterBackgroundStyle" id="0x7f01006f" />
+    <public type="attr" name="titleIndicatorTextColor" id="0x7f01006d" />
+	<public type="attr" name="titleIndicatorBackgroundColor" id="0x7f01006e" />
+    <public type="attr" name="titleIndicatorCounterTextColor" id="0x7f01006f" />
+	<public type="attr" name="titleIndicatorCounterBackgroundColor" id="0x7f010070" />
 </resources>
