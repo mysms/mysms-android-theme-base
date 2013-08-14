@@ -143,6 +143,9 @@
 	<attr name="titleIndicatorBackgroundColor" format="reference|color" />
     <attr name="titleIndicatorCounterTextColor" format="reference|color" />
     <attr name="titleIndicatorCounterBackgroundColor" format="reference|color" />
+    <attr name="conversationListSwipeDeleteDrawable" format="reference" />
+    <attr name="conversationListSwipeGroupDrawable" format="reference" />
+    <attr name="conversationListSwipeCallDrawable" format="reference" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
