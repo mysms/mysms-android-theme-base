@@ -139,4 +139,7 @@
 	<public type="attr" name="titleIndicatorBackgroundColor" id="0x7f01006e" />
     <public type="attr" name="titleIndicatorCounterTextColor" id="0x7f01006f" />
 	<public type="attr" name="titleIndicatorCounterBackgroundColor" id="0x7f010070" />
+    <public type="attr" name="conversationListSwipeDeleteDrawable" id="0x7f010071" />
+    <public type="attr" name="conversationListSwipeGroupDrawable" id="0x7f010072" />
+    <public type="attr" name="conversationListSwipeCallDrawable" id="0x7f010073" />
 </resources>
