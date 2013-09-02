@@ -143,4 +143,5 @@
     <public type="attr" name="conversationListSwipeGroupDrawable" id="0x7f010072" />
     <public type="attr" name="conversationListSwipeCallDrawable" id="0x7f010073" />
 	<public type="attr" name="spinnerBackground" id="0x7f010074" />
+    <public type="attr" name="actionBarPtrBackground" id="0x7f010075" />
 </resources>

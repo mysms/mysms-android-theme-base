@@ -147,6 +147,7 @@
     <attr name="conversationListSwipeGroupDrawable" format="reference" />
     <attr name="conversationListSwipeCallDrawable" format="reference" />
 	<attr name="spinnerBackground" format="reference" />
+    <attr name="actionBarPtrBackground" format="reference" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
