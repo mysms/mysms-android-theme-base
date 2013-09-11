@@ -144,4 +144,10 @@
     <public type="attr" name="conversationListSwipeCallDrawable" id="0x7f010073" />
 	<public type="attr" name="spinnerBackground" id="0x7f010074" />
     <public type="attr" name="actionBarPtrBackground" id="0x7f010075" />
+    <public type="attr" name="chartTotalColor" id="0x7f010076" />
+    <public type="attr" name="chartSmsLineColor" id="0x7f010077" />
+    <public type="attr" name="chartSmsFillColor" id="0x7f010078" />
+    <public type="attr" name="chartRemoteLineColor" id="0x7f010079" />
+    <public type="attr" name="chartRemoteFillColor" id="0x7f01007a" />
+    <public type="attr" name="chartGridColor" id="0x7f01007b" />
 </resources>

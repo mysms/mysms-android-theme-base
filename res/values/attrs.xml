@@ -148,6 +148,12 @@
     <attr name="conversationListSwipeCallDrawable" format="reference" />
 	<attr name="spinnerBackground" format="reference" />
     <attr name="actionBarPtrBackground" format="reference" />
+    <attr name="chartTotalColor" format="reference|color" />
+    <attr name="chartSmsLineColor" format="reference|color" />
+    <attr name="chartSmsFillColor" format="reference|color" />
+    <attr name="chartRemoteLineColor" format="reference|color" />
+    <attr name="chartRemoteFillColor" format="reference|color" />
+    <attr name="chartGridColor" format="reference|color" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
