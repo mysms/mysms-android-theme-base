@@ -153,4 +153,7 @@
     <public type="attr" name="messageListItemAddIconAudioDrawable" id="0x7f01007c" />
     <public type="attr" name="messageListItemAddIconVideoDrawable" id="0x7f01007d" />
     <public type="attr" name="messageListItemAddIconVcardDrawable" id="0x7f01007e" />
+    <public type="attr" name="messageListItemIncomingAddIconAudioDrawable" id="0x7f01007f" />
+    <public type="attr" name="messageListItemIncomingAddIconVideoDrawable" id="0x7f010080" />
+    <public type="attr" name="messageListItemIncomingAddIconVcardDrawable" id="0x7f010081" />
 </resources>

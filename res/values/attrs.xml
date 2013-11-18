@@ -157,6 +157,9 @@
     <attr name="messageListItemAddIconAudioDrawable" format="reference" />
     <attr name="messageListItemAddIconVideoDrawable" format="reference" />
     <attr name="messageListItemAddIconVcardDrawable" format="reference" />
+    <attr name="messageListItemIncomingAddIconAudioDrawable" format="reference" />
+    <attr name="messageListItemIncomingAddIconVideoDrawable" format="reference" />
+    <attr name="messageListItemIncomingAddIconVcardDrawable" format="reference" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
