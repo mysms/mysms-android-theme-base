@@ -150,4 +150,7 @@
     <public type="attr" name="chartRemoteLineColor" id="0x7f010079" />
     <public type="attr" name="chartRemoteFillColor" id="0x7f01007a" />
     <public type="attr" name="chartGridColor" id="0x7f01007b" />
+    <public type="attr" name="messageListItemAddIconAudioDrawable" id="0x7f01007c" />
+    <public type="attr" name="messageListItemAddIconVideoDrawable" id="0x7f01007d" />
+    <public type="attr" name="messageListItemAddIconVcardDrawable" id="0x7f01007e" />
 </resources>
