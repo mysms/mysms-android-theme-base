@@ -160,6 +160,10 @@
     <attr name="messageListItemIncomingAddIconAudioDrawable" format="reference" />
     <attr name="messageListItemIncomingAddIconVideoDrawable" format="reference" />
     <attr name="messageListItemIncomingAddIconVcardDrawable" format="reference" />
+    <attr name="chartMmsLineColor" format="reference|color" />
+    <attr name="chartMmsFillColor" format="reference|color" />
+    <attr name="chartMmsRemoteLineColor" format="reference|color" />
+    <attr name="chartMmsRemoteFillColor" format="reference|color" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->

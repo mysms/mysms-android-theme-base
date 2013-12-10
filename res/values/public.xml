@@ -156,4 +156,8 @@
     <public type="attr" name="messageListItemIncomingAddIconAudioDrawable" id="0x7f01007f" />
     <public type="attr" name="messageListItemIncomingAddIconVideoDrawable" id="0x7f010080" />
     <public type="attr" name="messageListItemIncomingAddIconVcardDrawable" id="0x7f010081" />
+    <public type="attr" name="chartMmsLineColor" id="0x7f010082" />
+    <public type="attr" name="chartMmsFillColor" id="0x7f010083" />
+    <public type="attr" name="chartMmsRemoteLineColor" id="0x7f010084" />
+    <public type="attr" name="chartMmsRemoteFillColor" id="0x7f010085" />
 </resources>
