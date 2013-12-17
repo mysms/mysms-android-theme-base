@@ -164,6 +164,8 @@
     <attr name="chartMmsFillColor" format="reference|color" />
     <attr name="chartMmsRemoteLineColor" format="reference|color" />
     <attr name="chartMmsRemoteFillColor" format="reference|color" />
+    <attr name="retryDrawable" format="reference" />
+    <attr name="cancelDrawable" format="reference" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
