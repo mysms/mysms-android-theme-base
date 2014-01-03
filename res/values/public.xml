@@ -162,4 +162,5 @@
     <public type="attr" name="chartMmsRemoteFillColor" id="0x7f010085" />
     <public type="attr" name="retryDrawable" id="0x7f010086" />
     <public type="attr" name="cancelDrawable" id="0x7f010087" />
+    <public type="attr" name="avatarRoundedCorner" id="0x7f010088" />
 </resources>

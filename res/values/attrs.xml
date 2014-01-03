@@ -166,6 +166,7 @@
     <attr name="chartMmsRemoteFillColor" format="reference|color" />
     <attr name="retryDrawable" format="reference" />
     <attr name="cancelDrawable" format="reference" />
+    <attr name="avatarRoundedCorner" format="reference" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
