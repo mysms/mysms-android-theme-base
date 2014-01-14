@@ -165,4 +165,6 @@
     <public type="attr" name="avatarRoundedCorner" id="0x7f010088" />
     <public type="attr" name="listItemPadding" id="0x7f010089" />
     <public type="attr" name="conversationListItemUnreadBackgroundColor" id="0x7f01008a" />
+    <public type="attr" name="listItemTextPadding" id="0x7f01008b" />
+    <public type="attr" name="avatarSize" id="0x7f01008c" />
 </resources>

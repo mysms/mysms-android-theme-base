@@ -169,6 +169,8 @@
     <attr name="avatarRoundedCorner" format="boolean" />
     <attr name="listItemPadding" format="integer" />
     <attr name="conversationListItemUnreadBackgroundColor" format="reference|color" />
+    <attr name="listItemTextPadding" format="integer" />
+    <attr name="avatarSize" format="integer" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
