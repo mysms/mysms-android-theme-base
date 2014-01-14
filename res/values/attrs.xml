@@ -167,6 +167,8 @@
     <attr name="retryDrawable" format="reference" />
     <attr name="cancelDrawable" format="reference" />
     <attr name="avatarRoundedCorner" format="boolean" />
+    <attr name="listItemPadding" format="integer" />
+    <attr name="conversationListItemUnreadBackgroundColor" format="reference|color" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->

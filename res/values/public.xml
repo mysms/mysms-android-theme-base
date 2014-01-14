@@ -163,4 +163,6 @@
     <public type="attr" name="retryDrawable" id="0x7f010086" />
     <public type="attr" name="cancelDrawable" id="0x7f010087" />
     <public type="attr" name="avatarRoundedCorner" id="0x7f010088" />
+    <public type="attr" name="listItemPadding" id="0x7f010089" />
+    <public type="attr" name="conversationListItemUnreadBackgroundColor" id="0x7f01008a" />
 </resources>
