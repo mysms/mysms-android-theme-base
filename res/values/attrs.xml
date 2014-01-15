@@ -171,6 +171,7 @@
     <attr name="conversationListItemUnreadBackgroundColor" format="reference|color" />
     <attr name="listItemTextPadding" format="integer" />
     <attr name="avatarSize" format="integer" />
+    <attr name="isFriendsIndicatorOverlay" format="boolean" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
