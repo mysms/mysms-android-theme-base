@@ -168,4 +168,5 @@
     <public type="attr" name="listItemTextPadding" id="0x7f01008b" />
     <public type="attr" name="avatarSize" id="0x7f01008c" />
     <public type="attr" name="isFriendsIndicatorOverlay" id="0x7f01008d" />
+    <public type="attr" name="dialogInfoTextStyle" id="0x7f01008e" />
 </resources>

@@ -172,6 +172,7 @@
     <attr name="listItemTextPadding" format="integer" />
     <attr name="avatarSize" format="integer" />
     <attr name="isFriendsIndicatorOverlay" format="boolean" />
+    <attr name="dialogInfoTextStyle" format="reference" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
