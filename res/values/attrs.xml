@@ -202,7 +202,6 @@
 	<declare-styleable name="messageEditor">
 		<attr name="android:textColor" />
 		<attr name="android:textColorHint" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 		<attr name="android:background" />
 	</declare-styleable>
@@ -221,13 +220,11 @@
 	
 	<declare-styleable name="recipientsEditor">
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	
 	<declare-styleable name="contactListGroupItem">
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	
@@ -241,13 +238,11 @@
 	
 	<declare-styleable name="contactListItemName">
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	
 	<declare-styleable name="contactListItemNumber">
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	
@@ -262,25 +257,21 @@
 	
 	<declare-styleable name="conversationListItemDate">
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	
 	<declare-styleable name="conversationListItemName">
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	
 	<declare-styleable name="conversationListItemDraft">
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	
 	<declare-styleable name="conversationListItemSnippet">
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	
@@ -289,14 +280,11 @@
 		<attr name="android:gravity" />
 		<attr name="android:shadowColor" />
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	
 	<declare-styleable name="messageListItemText">
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
-		<attr name="android:textStyle" />
 	</declare-styleable>
 	
 	<declare-styleable name="notifyPopupName">
@@ -371,8 +359,6 @@
 	
 	<declare-styleable name="messageListItemNumbersText">
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
-		<attr name="android:textStyle" />
 	</declare-styleable>
 	
 	<declare-styleable name="messageSendButton">
@@ -435,7 +421,6 @@
 		<attr name="android:paddingTop" />
 		<attr name="android:paddingBottom" />
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	
@@ -448,7 +433,6 @@
 		<attr name="android:paddingTop" />
 		<attr name="android:paddingBottom" />
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	
@@ -458,7 +442,6 @@
 	
 	<declare-styleable name="friendsListInfoFrameText">
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	
@@ -504,7 +487,6 @@
 	</declare-styleable>
 	<declare-styleable name="contactListItemType">
 		<attr name="android:textColor" />
-		<attr name="android:textSize" />
 		<attr name="android:textStyle" />
 	</declare-styleable>
 	<declare-styleable name="imageButton">

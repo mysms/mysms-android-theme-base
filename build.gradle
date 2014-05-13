@@ -3,14 +3,14 @@ apply plugin: 'maven'
 
 group = 'com.mysms.android'
 archivesBaseName = 'mysms-android-theme-base'
-version = '1.2.6'
+version = '1.2.7'
 
 buildscript {
     repositories {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:0.7.+'
+        classpath 'com.android.tools.build:gradle:0.9.+'
     }
 }
 
@@ -19,7 +19,7 @@ dependencies {
 
 android {
     compileSdkVersion 17
-    buildToolsVersion "17"
+    buildToolsVersion "19"
 
     defaultConfig {
         minSdkVersion 5
