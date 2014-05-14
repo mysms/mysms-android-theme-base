@@ -169,4 +169,6 @@
     <public type="attr" name="avatarSize" id="0x7f01008c" />
     <public type="attr" name="isFriendsIndicatorOverlay" id="0x7f01008d" />
     <public type="attr" name="dialogInfoTextStyle" id="0x7f01008e" />
+    <public type="attr" name="headerBarDoneDrawable" id="0x7f01008f" />
+    <public type="attr" name="headerBarMapsDrawable" id="0x7f010090" />
 </resources>

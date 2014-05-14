@@ -3,7 +3,7 @@ apply plugin: 'maven'
 
 group = 'com.mysms.android'
 archivesBaseName = 'mysms-android-theme-base'
-version = '1.2.7'
+version = '1.2.8'
 
 buildscript {
     repositories {

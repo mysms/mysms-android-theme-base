@@ -173,6 +173,8 @@
     <attr name="avatarSize" format="integer" />
     <attr name="isFriendsIndicatorOverlay" format="boolean" />
     <attr name="dialogInfoTextStyle" format="reference" />
+    <attr name="headerBarDoneDrawable" format="reference" />
+    <attr name="headerBarMapsDrawable" format="reference" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
