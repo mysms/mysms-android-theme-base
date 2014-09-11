@@ -175,6 +175,8 @@
     <attr name="dialogInfoTextStyle" format="reference" />
     <attr name="headerBarDoneDrawable" format="reference" />
     <attr name="headerBarMapsDrawable" format="reference" />
+    <attr name="avatarBlankDrawable" format="reference" />
+    <attr name="avatarTextColor" format="reference|color" />
     <!-- Theme Resources End -->
 	
 	<!-- Theme Styleables Start -->
